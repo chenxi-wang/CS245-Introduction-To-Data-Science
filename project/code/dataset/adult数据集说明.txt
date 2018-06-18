@@ -1,0 +1,30 @@
+adult.txt数据集的属性信息:
+ 
+1.年龄:数值
+2.工作类别:Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov,  
+State-gov, Without-pay, Never-worked. 
+3.最终权重: 数值. 
+4.教育程度:Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, 
+Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, 
+Preschool. 
+5.受教育时间:数值. 
+6.婚姻状况: Married-civ-spouse, Divorced, Never-married, Separated, 
+Widowed, Married-spouse-absent, Married-AF-spouse. 
+7.职业: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, 
+Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, 
+Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, 
+Armed-Forces. 
+8.家庭关系: Wife, Own-child, Husband, Not-in-family, Other-relative, 
+Unmarried. 
+9.种族: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black. 
+10.性别: Female, Male. 
+11.资本收益: 连续数值. 
+12.资本亏损: 连续数值. 
+13.每周工作小时数: 连续数值. 
+14.祖国: United-States, Cambodia, England, Puerto-Rico, Canada, 
+Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, 
+Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, 
+Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, 
+Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, 
+El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands. 
+15.收入: >50K, <=50K.
