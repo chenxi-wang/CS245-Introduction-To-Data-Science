@@ -8,7 +8,7 @@ SJTU CS245 数据科学基础
     - [Notebook](http://nbviewer.jupyter.org/github/chenxi-wang/CS245-Data-Science/blob/master/homework_2/code/hw2.ipynb)
     - [Report](./homework_2/report.pdf)
 - [作业三](./homework_3/)：对 Boston 数据集进行降维并探索
-    - [Notebook(http://nbviewer.jupyter.org/github/chenxi-wang/CS245-Data-Science/blob/master/homework_3/code/hw3.ipynb)
+    - [Notebook](http://nbviewer.jupyter.org/github/chenxi-wang/CS245-Data-Science/blob/master/homework_3/code/hw3.ipynb)
     - [Report](./homework_3/report.pdf)
 - [作业四](./homework_4/)：研究模型的性能及改善模型的方法
     - [Notebook](http://nbviewer.jupyter.org/github/chenxi-wang/CS245-Data-Science/blob/master/homework_4/code/hw4.ipynb)
