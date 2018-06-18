@@ -1,4 +1,4 @@
-# CS245-Data-Science
+# CS245-Introduction-To-Data-Science
 SJTU CS245 数据科学基础
 
 - 作业一
